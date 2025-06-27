@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    color: white;
+}
+header{
+    background-color: rgb(2, 2, 37);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
